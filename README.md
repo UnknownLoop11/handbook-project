@@ -1,2 +1,2 @@
 # handbook-project
-> github
+> github project
